@@ -6,7 +6,7 @@ This folder brings together the 12 R plotting scripts from `final codes` and the
 
 - `codes/` — copies of the R scripts. Their input paths now point to `inputs/` relative to the bundle root.
 - `inputs/` — copies of the CSV, TSV, and Excel source files.
-- `examples/` — example figure outputs (PDF and PNG) generated from the bundled scripts and inputs, plus the pie-chart summary tables. Multi-page PDFs include each panel/page from the original output.
+- `examples/` — example figure outputs generated from the bundled scripts and inputs, plus the pie-chart summary tables. 
 
 Set the bundle root as your R working directory before running a script so its relative input path resolves. The `qplot.xlsx` script reads the first worksheet.
 
