@@ -1,0 +1,555 @@
+source_file	contig_id	to	value	phylum	class_ncbi	order	family_ncbi	genus	species
+1	k141_101136	multidrug@RND	34.336826	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas syringae
+1	k141_102048	chloramphenicol	100.100555	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+1	k141_102876	polymyxin	72.023575	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Alteromonas	Alteromonas sp. MB-3u-76
+1	k141_103634	macrolide-lincosamide-streptogramin	199.96458	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans	Limnohabitans sp. 63ED37-2
+1	k141_105245	bacitracin	107.91572	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Paracoccaceae	Paracoccus	Paracoccus pantotrophus
+1	k141_108035	macrolide-lincosamide-streptogramin	63.9962	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. NC02
+1	k141_110804	bacitracin	136.65327	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium fluviale
+1	k141_111158	bacitracin	70.12325	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium commune
+1	k141_112120	beta-lactam	66.291084	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Erythrobacteraceae	Porphyrobacter	Porphyrobacter sp. HT-58-2
+1	k141_115467	macrolide-lincosamide-streptogramin	87.4234	Bacillota	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus auricularis
+1	k141_115477	bacitracin	59.95872	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Erythrobacteraceae	Porphyrobacter	Porphyrobacter sp. HT-58-2
+1	k141_117095	bacitracin	88.002335	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Polynucleobacter	Polynucleobacter necessarius
+1	k141_123587	polymyxin	133.15764	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas simiae
+1	k141_124021	beta-lactam	38.983044	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Erythrobacteraceae	Porphyrobacter	Porphyrobacter sp. CACIAM 03H1
+1	k141_12418	bacitracin	81.33167	Actinomycetota	Actinomycetes	Candidatus Nanopelagicales	Candidatus Nanopelagicaceae	Candidatus Planktophila	Candidatus Planktophila sulfonica
+1	k141_13169	bacitracin	64.75805	Bacteroidota	Flavobacteriia	Flavobacteriales	Weeksellaceae	Chryseobacterium	Chryseobacterium sp. 3008163
+1	k141_133338	bacitracin	72.613945	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Phyllobacteriaceae	Phyllobacterium	Phyllobacterium zundukense
+1	k141_13373	macrolide-lincosamide-streptogramin	165.50555	Pseudomonadota	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	unclassified
+1	k141_133744	beta-lactam	94.13824	Pseudomonadota	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Janthinobacterium	Janthinobacterium agaricidamnosum
+1	k141_13443	beta-lactam	74.33097	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. SXM-1
+1	k141_13784	multidrug@RND	124.63823	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified
+1	k141_138270	bacitracin	93.99363	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Polynucleobacter	Polynucleobacter necessarius
+1	k141_139663	multidrug@RND	170.51257	Pseudomonadota	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Janthinobacterium	Janthinobacterium agaricidamnosum
+1	k141_148710	bacitracin	97.912926	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium sp. CLA17
+1	k141_148946	beta-lactam	132.71759	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Phyllobacteriaceae	Mesorhizobium	unclassified
+1	k141_151374	defensin	60.08941	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycolicibacterium	Mycolicibacterium sediminis
+1	k141_153806	bacitracin	50.478027	Bacteroidota	Flavobacteriia	Flavobacteriales	Weeksellaceae	Chryseobacterium	Chryseobacterium sp. NEB161
+1	k141_156059	bacitracin	124.4362	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Acidovorax	Acidovorax sp. KKS102
+1	k141_156621	bacitracin	48.14617	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardiaceae	Rhodococcus	unclassified
+1	k141_162351	beta-lactam	69.407364	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium haoranii
+1	k141_162933	bacitracin	64.47526	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Polynucleobacter	Polynucleobacter difficilis
+1	k141_166226	bacitracin	121.77178	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans	Limnohabitans sp. 63ED37-2
+1	k141_166245	beta-lactam	228.98303	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans	Limnohabitans sp. 63ED37-2
+1	k141_167175	bacitracin	73.071945	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fluorescens
+1	k141_170166	bacitracin	105.61399	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+1	k141_170362	polymyxin	44.741917	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas poae
+1	k141_170672	sulfonamide	67.8843	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+1	k141_170746	multidrug@RND	85.387	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. NIBRBAC000502773
+1	k141_175127	multidrug@RND	75.46466	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas poae
+1	k141_176004	bacitracin	39.460587	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Rhodoferax	Rhodoferax saidenbachensis
+1	k141_176909	bacitracin	66.5725	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	unclassified
+1	k141_177091	beta-lactam	173.70393	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Polynucleobacter	Polynucleobacter necessarius
+1	k141_177263	bacitracin	77.52423	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium sp. Sr18
+1	k141_179862	bacitracin	71.90663	Pseudomonadota	Alphaproteobacteria	Acetobacterales	Roseomonadaceae	Roseococcus	Roseococcus microcysteis
+1	k141_181796	rifamycin	77.39628	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardiaceae	Rhodococcus	Rhodococcus sp. BH4
+1	k141_182252	bacitracin	78.47045	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans	Limnohabitans sp. 63ED37-2
+1	k141_183181	bacitracin	62.6387	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingosinicellaceae	Sphingosinicella	Sphingosinicella microcystinivorans
+1	k141_187310	bacitracin	48.56851	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Polynucleobacter	Polynucleobacter necessarius
+1	k141_192038	multidrug@RND	90.76743	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas trivialis
+1	k141_194686	polymyxin	102.65934	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas trivialis
+1	k141_195847	bacitracin	103.44783	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+1	k141_196191	sulfonamide	0	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+1	k141_19744	beta-lactam	88.69991	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+1	k141_211232	multidrug@ABC	74.86397	Bacillota	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus cellulositrophicus
+1	k141_213023	polymyxin	79.60173	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. SXM-1
+1	k141_218571	bacitracin	177.22403	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium sp. Sr18
+1	k141_219129	beta-lactam	135.10307	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Comamonas	Comamonas kerstersii
+1	k141_219706	multidrug@RND	65.72579	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. S09G 359
+1	k141_224486	beta-lactam	109.36913	Pseudomonadota	Betaproteobacteria	Nitrosomonadales	Methylophilaceae	Methylophilus	Methylophilus medardicus
+1	k141_227074	bacitracin	60.7294	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+1	k141_227927	aminoglycoside	44.47242	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+1	k141_229436	defensin	55.024208	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified
+1	k141_233713	bacitracin	72.344376	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas marincola
+1	k141_233966	beta-lactam	64.05567	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Erythrobacteraceae	Porphyrobacter	Porphyrobacter sp. YT40
+1	k141_234636	beta-lactam	230.31505	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	unclassified
+1	k141_236549	bacitracin	88.249596	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium sp. Sr18
+1	k141_236879	chloramphenicol	49.65754	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Rhizobiaceae	Sinorhizobium	Sinorhizobium sp. RAC02
+1	k141_241632	bacitracin	87.66084	Pseudomonadota	Betaproteobacteria	Neisseriales	Neisseriaceae	unclassified	unclassified
+1	k141_242659	bacitracin	52.33105	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Hydrogenophaga	Hydrogenophaga pseudoflava
+1	k141_243890	chloramphenicol	51.41984	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Novosphingobium	Novosphingobium sp. ES2-1
+1	k141_251766	bacitracin	78.81583	Bacteroidota	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Pedobacter	Pedobacter sp. KBS0701
+1	k141_252010	bacitracin	107.275116	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans	Limnohabitans sp. 63ED37-2
+1	k141_254490	polymyxin	81.774445	Pseudomonadota	Alphaproteobacteria	unclassified	unclassified	unclassified	unclassified
+1	k141_256523	bacitracin	69.345566	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Hydrogenophaga	unclassified
+1	k141_256979	multidrug@ABC	35.924168	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Rhodoferax	Rhodoferax sediminis
+1	k141_260150	beta-lactam	94.29638	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+1	k141_260487	bacitracin	92.9505	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+1	k141_260867	macrolide-lincosamide-streptogramin	37.37931	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Acidovorax	Acidovorax sp. JMULE5
+1	k141_261795	beta-lactam	137.70313	Pseudomonadota	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	Massilia litorea
+1	k141_262797	beta-lactam	40.12181	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+1	k141_266173	defensin	64.90037	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fluorescens
+1	k141_266400	beta-lactam	37.37931	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified
+1	k141_268314	multidrug@RND	122.67523	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Polynucleobacter	Polynucleobacter asymbioticus
+1	k141_270165	bacitracin	74.05559	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	Capnocytophaga canimorsus
+1	k141_27268	polymyxin	77.03391	Pseudomonadota	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas subvibrioides
+1	k141_27460	multidrug@RND	87.55423	Pseudomonadota	unclassified	unclassified	unclassified	unclassified	unclassified
+1	k141_275846	polymyxin	80.050285	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified
+1	k141_276851	multidrug@RND	53.27517	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Ottowia	Ottowia testudinis
+1	k141_29207	macrolide-lincosamide-streptogramin	46.260586000000004	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. SXM-1
+1	k141_33233	multidrug@RND	214.65573	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Nitrobacteraceae	Rhodopseudomonas	Rhodopseudomonas palustris
+1	k141_33507	bacitracin	95.77193	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+1	k141_34803	beta-lactam	142.42607	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans	Limnohabitans sp. 103DPR2
+1	k141_35108	beta-lactam	234.03459	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Rhodoferax	Rhodoferax sp. AJA081-3
+1	k141_35370	macrolide-lincosamide-streptogramin	144.34055	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Curvibacter	Curvibacter sp. AEP1-3
+1	k141_36563	multidrug@RND	51.445446	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas poae
+1	k141_37269	macrolide-lincosamide-streptogramin	131.75963	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas poae
+1	k141_39896	macrolide-lincosamide-streptogramin	85.34581	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	Photorhabdus	Photorhabdus laumondii
+1	k141_4466	beta-lactam	109.83405	Pseudomonadota	Betaproteobacteria	Nitrosomonadales	Methylophilaceae	Candidatus Methylopumilus	Candidatus Methylopumilus turicensis
+1	k141_45933	multidrug@RND	52.836384	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified
+1	k141_4713	bacitracin	100.81256	Bacillota	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus sp. JDR-2
+1	k141_50749	rifamycin	54.55827	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. SXM-1
+1	k141_51373	bacitracin	179.85635	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium sangjuense
+1	k141_54696	beta-lactam	106.36764	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+1	k141_55011	multidrug@RND	165.89699	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas orientalis
+1	k141_55628	polymyxin	70.72974	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. NC02
+1	k141_59133	beta-lactam	131.66092	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified
+1	k141_59205	beta-lactam	168.53166	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Hyphomicrobiaceae	Hyphomicrobium	Hyphomicrobium denitrificans
+1	k141_60083	beta-lactam	229.84834	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans	Limnohabitans sp. 103DPR2
+1	k141_61703	aminoglycoside	67.33148	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+1	k141_62421	bacitracin	91.414536	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. SXM-1
+1	k141_64499	defensin	63.886322	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified
+1	k141_65048	multidrug@RND	84.37048	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. NC02
+1	k141_67932	rifamycin	63.70611	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardiaceae	Rhodococcus	Rhodococcus qingshengii
+1	k141_69403	beta-lactam	86.00879	Pseudomonadota	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	unclassified	unclassified
+1	k141_77422	multidrug@RND	57.43206	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas azotoformans
+1	k141_81041	macrolide-lincosamide-streptogramin	59.569958	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fluorescens
+1	k141_81866	beta-lactam	71.55816	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingosinicellaceae	Sandaracinobacteroides	Sandaracinobacteroides saxicola
+1	k141_81871	bacitracin	46.576748	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Rhodoferax	Rhodoferax ferrireducens
+1	k141_82027	bacitracin	101.00695	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans	Limnohabitans sp. 63ED37-2
+1	k141_83330	bacitracin	130.0573	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium sp. Sr18
+1	k141_84174	bacitracin	104.11104	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Paracoccaceae	Frigidibacter	Frigidibacter mobilis
+1	k141_84196	polymyxin	115.26449	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified
+1	k141_84375	beta-lactam	61.888508	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+1	k141_84610	multidrug@RND	92.6579	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas poae
+1	k141_8767	multidrug@RND	68.567345	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas poae
+1	k141_95564	beta-lactam	67.68977	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+1	k141_97178	macrolide-lincosamide-streptogramin	48.251064	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. SXM-1
+2	k141_100967	multidrug@RND	47.55286	Pseudomonadota	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Janthinobacterium	Janthinobacterium lividum
+2	k141_102194	bacitracin	38.42745	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_104530	defensin	16.958197	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_105587	bacitracin	44.303856	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingopyxidaceae	Sphingopyxis	Sphingopyxis sp. EG6
+2	k141_105669	beta-lactam	35.10105	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_106189	tetracycline	33.170063	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_106972	polymyxin	49.864395	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. NC02
+2	k141_114043	bacitracin	13.600561	Pseudomonadota	Gammaproteobacteria	Lysobacterales	Lysobacteraceae	Arenimonas	Arenimonas daejeonensis
+2	k141_115293	bacitracin	75.87737	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella	Shewanella sp. ANA-3
+2	k141_115714	beta-lactam	33.162693	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_116861	bacitracin	21.000875	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans	Limnohabitans sp. 63ED37-2
+2	k141_1208	bacitracin	65.410194	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium sp. CLA17
+2	k141_123411	bacitracin	63.336643	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	unclassified
+2	k141_130449	rifamycin	28.013544	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardiaceae	Rhodococcus	unclassified
+2	k141_134058	macrolide-lincosamide-streptogramin	34.923817	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Paracoccaceae	unclassified	unclassified
+2	k141_138534	macrolide-lincosamide-streptogramin	38.001568	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Psychrobacter	Psychrobacter sp. G
+2	k141_140056	bacitracin	86.83494	Pseudomonadota	Betaproteobacteria	Nitrosomonadales	Methylophilaceae	Candidatus Methylopumilus	Candidatus Methylopumilus universalis
+2	k141_140626	bacitracin	33.570824	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Paracoccaceae	Tritonibacter	Tritonibacter mobilis
+2	k141_140924	multidrug@RND	23.256958	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. LG1E9
+2	k141_140928	multidrug@RND	44.41431	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter sp. CS-2
+2	k141_14179	beta-lactam	76.40222	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans	Limnohabitans sp. 63ED37-2
+2	k141_142511	bacitracin	79.543304	Actinomycetota	Actinomycetes	Candidatus Nanopelagicales	Candidatus Nanopelagicaceae	Candidatus Planktophila	Candidatus Planktophila vernalis
+2	k141_143360	bacitracin	38.83558	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_147109	macrolide-lincosamide-streptogramin	28.56116	Pseudomonadota	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Janthinobacterium	Janthinobacterium sp. 1_2014MBL_MicDiv
+2	k141_148725	multidrug@RND	49.85085	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified
+2	k141_149920	multidrug@RND	30.9335	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. NC02
+2	k141_151417	bacitracin	65.24796	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium commune
+2	k141_151986	multidrug@RND	37.981606	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified
+2	k141_155055	defensin	55.649986	Actinomycetota	Actinomycetes	Micrococcales	Micrococcaceae	Arthrobacter	Arthrobacter sp. ERGS1:01
+2	k141_160700	multidrug@RND	29.572882	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Acidovorax	Acidovorax sp. JMULE5
+2	k141_163432	bacitracin	39.610382	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_164083	beta-lactam	32.59234	Actinomycetota	Actinomycetes	Micrococcales	Micrococcaceae	Glutamicibacter	Glutamicibacter mishrai
+2	k141_167374	defensin	23.21904	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycolicibacterium	Mycolicibacterium boenickei
+2	k141_167733	macrolide-lincosamide-streptogramin	32.49473	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Anaerocolumna	Anaerocolumna sedimenticola
+2	k141_167802	macrolide-lincosamide-streptogramin	31.879631	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Hydrogenophaga	Hydrogenophaga sp. BPS33
+2	k141_168591	bacitracin	30.73331	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Novosphingobium	Novosphingobium sp. THN1
+2	k141_168838	polymyxin	27.68686	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. URMO17WK12:I11
+2	k141_172802	bacitracin	21.663174	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_17415	multidrug@RND	37.68488	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter sp. CS-2
+2	k141_175296	bacitracin	81.873314	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans	Limnohabitans sp. 63ED37-2
+2	k141_179460	bacitracin	29.816624	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Rhodoferax	Rhodoferax sediminis
+2	k141_179482	tetracycline	19.000774	Bacillota	Bacilli	Lactobacillales	unclassified	unclassified	unclassified
+2	k141_179502	defensin	66.93179	Actinomycetota	Actinomycetes	Candidatus Nanopelagicales	Candidatus Nanopelagicaceae	Candidatus Nanopelagicus	Candidatus Nanopelagicus limnae
+2	k141_180100	multidrug@RND	43.529057	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. ACM7
+2	k141_181174	beta-lactam	36.666367	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Paracoccaceae	Roseinatronobacter	Roseinatronobacter bogoriensis
+2	k141_182492	tetracycline	42.113472	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_184341	macrolide-lincosamide-streptogramin	32.092945	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_18487	beta-lactam	20.248589	Pseudomonadota	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	Massilia violaceinigra
+2	k141_185278	bacitracin	158.50697	Actinomycetota	Actinomycetes	Candidatus Nanopelagicales	Candidatus Nanopelagicaceae	Candidatus Planktophila	Candidatus Planktophila limnetica
+2	k141_190458	macrolide-lincosamide-streptogramin	62.671562	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Paracoccaceae	Thioclava	Thioclava nitratireducens
+2	k141_198596	tetracycline	46.6865	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli
+2	k141_200686	beta-lactam	21.4774	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Rhodoferax	Rhodoferax sediminis
+2	k141_209719	multidrug@RND	31.708136	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	unclassified
+2	k141_209987	bacitracin	106.99812	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Polynucleobacter	Polynucleobacter necessarius
+2	k141_220717	macrolide-lincosamide-streptogramin	41.04167	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans	Limnohabitans sp. 63ED37-2
+2	k141_224536	multidrug@RND	39.43767	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. NC02
+2	k141_22900	bacitracin	22.273447	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_229286	bacitracin	48.65641	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_229384	beta-lactam	23.88478	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Yersiniaceae	Gibbsiella	Gibbsiella quercinecans
+2	k141_231313	rifamycin	18.9477	Actinomycetota	Actinomycetes	Micromonosporales	Micromonosporaceae	Micromonospora	Micromonospora zamorensis
+2	k141_234276	bacitracin	42.06683	Pseudomonadota	Betaproteobacteria	Nitrosomonadales	Methylophilaceae	Candidatus Methylopumilus	Candidatus Methylopumilus universalis
+2	k141_234596	macrolide-lincosamide-streptogramin	36.35373	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Psychrobacter	Psychrobacter sp. DAB_AL43B
+2	k141_246232	macrolide-lincosamide-streptogramin	63.271378	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	unclassified	unclassified
+2	k141_248109	defensin	102.12637	Actinomycetota	Actinomycetes	Candidatus Nanopelagicales	Candidatus Nanopelagicaceae	Candidatus Nanopelagicus	Candidatus Nanopelagicus limnae
+2	k141_250907	tetracycline	26.08954	Bacteroidota	Bacteroidia	Bacteroidales	unclassified	unclassified	unclassified
+2	k141_251127	defensin	38.264645	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_260205	macrolide-lincosamide-streptogramin	66.25525	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Polynucleobacter	Polynucleobacter necessarius
+2	k141_267783	bacitracin	61.268314	Pseudomonadota	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	Massilia antarctica
+2	k141_268434	macrolide-lincosamide-streptogramin	145.02534	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium sp. I3-2
+2	k141_273884	bacitracin	28.179781	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_276477	beta-lactam	28.864998	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Nitrobacteraceae	Bradyrhizobium	Bradyrhizobium japonicum
+2	k141_282576	multidrug@RND	38.323586	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Variovorax	Variovorax sp. PAMC26660
+2	k141_285813	bacitracin	35.93791	Bacteroidota	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Pedobacter	Pedobacter sp. KBS0701
+2	k141_288410	aminoglycoside	26.215569	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardiaceae	Rhodococcus	Rhodococcus sp. YL-1
+2	k141_288573	multidrug@RND	31.187475	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. ADAK13
+2	k141_290888	aminoglycoside	187.45636	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Thiopseudomonas	Thiopseudomonas alkaliphila
+2	k141_291340	bacitracin	43.76307	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Rhodoferax	Rhodoferax sp. PAMC 29310
+2	k141_292990	macrolide-lincosamide-streptogramin	103.82568	Pseudomonadota	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas sp. LM2
+2	k141_293161	bacitracin	30.243912	Actinomycetota	Actinomycetes	Candidatus Nanopelagicales	Candidatus Nanopelagicaceae	Candidatus Planktophila	Candidatus Planktophila vernalis
+2	k141_294540	macrolide-lincosamide-streptogramin	59.791817	Pseudomonadota	Betaproteobacteria	Nitrosomonadales	Methylophilaceae	Candidatus Methylopumilus	Candidatus Methylopumilus planktonicus
+2	k141_295741	bacitracin	38.264645	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_301128	bacitracin	64.38364	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium nackdongense
+2	k141_309581	defensin	74.95334	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_311581	beta-lactam	50.42727	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingopyxidaceae	Sphingopyxis	Sphingopyxis sp. EG6
+2	k141_313079	rifamycin	21.741283	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardiaceae	Rhodococcus	Rhodococcus qingshengii
+2	k141_314930	macrolide-lincosamide-streptogramin	63.795116	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans	Limnohabitans sp. 63ED37-2
+2	k141_315065	beta-lactam	32.73432	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans	Limnohabitans sp. 63ED37-2
+2	k141_315541	bacitracin	25.876266	Actinomycetota	Actinomycetes	Candidatus Nanopelagicales	Candidatus Nanopelagicaceae	Candidatus Planktophila	Candidatus Planktophila vernalis
+2	k141_320628	bacitracin	40.58372	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_322474	tetracycline	74.60354	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes indistinctus
+2	k141_323185	multidrug@RND	54.167725	Pseudomonadota	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Pseudoduganella	Pseudoduganella umbonata
+2	k141_329263	polymyxin	32.246468	Pseudomonadota	Betaproteobacteria	Burkholderiales	unclassified	unclassified	unclassified
+2	k141_335987	bacitracin	27.546299	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Rhodoferax	Rhodoferax sediminis
+2	k141_338719	macrolide-lincosamide-streptogramin	23.256958	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Simplicispira	Simplicispira suum
+2	k141_344263	defensin	34.17267	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_349083	multidrug@RND	27.972273	Pseudomonadota	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	Massilia violaceinigra
+2	k141_349109	beta-lactam	15.557975	Pseudomonadota	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas sp. AJA228-03
+2	k141_35072	multidrug@RND	36.177483	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. SXM-1
+2	k141_351788	macrolide-lincosamide-streptogramin	29.35072	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Cupriavidus	unclassified
+2	k141_351867	beta-lactam	93.791176	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans	Limnohabitans sp. 63ED37-2
+2	k141_352059	defensin	40.358166	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. NC02
+2	k141_352592	macrolide-lincosamide-streptogramin	38.651173	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans	Limnohabitans sp. 63ED37-2
+2	k141_356162	macrolide-lincosamide-streptogramin	51.611893	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_358325	bacitracin	65.46262	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium pallidum
+2	k141_359720	polymyxin	52.99434	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas azotoformans
+2	k141_360652	beta-lactam	90.443665	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans	Limnohabitans sp. 63ED37-2
+2	k141_369270	beta-lactam	318.7916	Actinomycetota	Actinomycetes	Candidatus Nanopelagicales	Candidatus Nanopelagicaceae	Candidatus Planktophila	Candidatus Planktophila limnetica
+2	k141_372548	multidrug@RND	31.30745	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified
+2	k141_376730	bacitracin	41.958412	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_378845	bacitracin	33.783054	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Polynucleobacter	Polynucleobacter necessarius
+2	k141_379065	bacitracin	28.179781	Bacteroidota	Flavobacteriia	Flavobacteriales	Weeksellaceae	Kaistella	Kaistella jeonii
+2	k141_37987	beta-lactam	115.706245	Pseudomonadota	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas sp. MF30-B
+2	k141_383367	bacitracin	30.779272	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Polynucleobacter	Polynucleobacter necessarius
+2	k141_390406	macrolide-lincosamide-streptogramin	33.190346	Actinomycetota	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_390741	bacitracin	36.71861	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium nackdongense
+2	k141_392103	sulfonamide	44.013615	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_395277	aminoglycoside	17.604970538507402	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_39630	beta-lactam	24.475735	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified
+2	k141_41067	macrolide-lincosamide-streptogramin	29.55092	Bacteroidota	Flavobacteriia	Flavobacteriales	Weeksellaceae	Empedobacter	Empedobacter brevis
+2	k141_411955	beta-lactam	73.07516	Pseudomonadota	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Noviherbaspirillum	Noviherbaspirillum sp. UKPF54
+2	k141_412182	aminoglycoside	60.849403	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella pneumoniae
+2	k141_414029	bacitracin	56.114708	Bacteroidota	Flavobacteriia	Flavobacteriales	Weeksellaceae	Kaistella	Kaistella jeonii
+2	k141_417125	defensin	23.256958	Actinomycetota	Actinomycetes	Micrococcales	Microbacteriaceae	Rhodoluna	Rhodoluna lacicola
+2	k141_417126	macrolide-lincosamide-streptogramin	59.836422	Planctomycetota	Planctomycetia	Planctomycetales	Planctomycetaceae	Calycomorphotria	Calycomorphotria hydatis
+2	k141_418383	bacitracin	29.769855	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_419609	bacitracin	31.025381	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fluorescens
+2	k141_425878	multidrug@RND	50.783916	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas putida
+2	k141_42797	defensin	45.35527	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fluorescens
+2	k141_430170	bacitracin	24.602575	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Psychrobacter	Psychrobacter sp. P11F6
+2	k141_430294	beta-lactam	48.45202	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_432703	beta-lactam	45.221855	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Variovorax	Variovorax paradoxus
+2	k141_433073	tetracycline	36.71861	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_436345	tetracycline	22.673904	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	Lacrimispora	Lacrimispora sphenoides
+2	k141_436781	macrolide-lincosamide-streptogramin	27.133125	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. SXM-1
+2	k141_439687	multidrug@MFS	41.886444	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycolicibacterium	Mycolicibacterium sediminis
+2	k141_441360	beta-lactam	169.39793	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Polynucleobacter	Polynucleobacter necessarius
+2	k141_441913	bacitracin	14.746257	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Polynucleobacter	Polynucleobacter asymbioticus
+2	k141_442874	aminoglycoside	435.89294	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Thiopseudomonas	Thiopseudomonas alkaliphila
+2	k141_443129	beta-lactam	8.984477	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans	Limnohabitans sp. 63ED37-2
+2	k141_443529	bacitracin	159.76692	Actinomycetota	Actinomycetes	Candidatus Nanopelagicales	Candidatus Nanopelagicaceae	Candidatus Planktophila	Candidatus Planktophila limnetica
+2	k141_444107	bacitracin	38.932735	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans	Limnohabitans sp. 63ED37-2
+2	k141_445514	beta-lactam	123.09925	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	unclassified	unclassified
+2	k141_450376	bacitracin	49.528706	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium columnare
+2	k141_45159	multidrug@MFS	29.140593	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_453397	beta-lactam	56.202057	Bacteroidota	Flavobacteriia	Flavobacteriales	Weeksellaceae	Chryseobacterium	Chryseobacterium sp. G0201
+2	k141_453820	defensin	33.981743	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycolicibacterium	unclassified
+2	k141_455682	beta-lactam	15.821058	Pseudomonadota	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	Massilia sp. NR 4-1
+2	k141_455993	bacitracin	50.71611	Actinomycetota	Actinomycetes	Candidatus Nanopelagicales	Candidatus Nanopelagicaceae	Candidatus Planktophila	Candidatus Planktophila vernalis
+2	k141_463508	macrolide-lincosamide-streptogramin	30.899977	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Psychrobacter	Psychrobacter sp. P11F6
+2	k141_470786	bacitracin	70.25539	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Polynucleobacter	Polynucleobacter necessarius
+2	k141_471022	bacitracin	122.52956	Actinomycetota	Actinomycetes	Micrococcales	Microbacteriaceae	Aurantimicrobium	Aurantimicrobium photophilum
+2	k141_471596	polymyxin	27.43799	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. NC02
+2	k141_475900	bacitracin	37.21498	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardiaceae	Rhodococcus	unclassified
+2	k141_47680	bacitracin	35.971924	Bacteroidota	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Pedobacter	Pedobacter sp. KBS0701
+2	k141_480334	bacitracin	86.00477	Pseudomonadota	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Janthinobacterium	Janthinobacterium svalbardensis
+2	k141_481357	multidrug@RND	33.63607	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. CC6-YY-74
+2	k141_481812	bacitracin	21.466074	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_486689	polymyxin	38.88502	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified
+2	k141_49316	sulfonamide	28.204893	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_493358	bacitracin	30.9335	Bacteroidota	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Sphingobacterium	Sphingobacterium zhuxiongii
+2	k141_496045	macrolide-lincosamide-streptogramin	28.988365	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Psychrobacter	unclassified
+2	k141_496429	macrolide-lincosamide-streptogramin	29.981348	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_501006	beta-lactam	97.87951	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans	Limnohabitans sp. 63ED37-2
+2	k141_50314	bacitracin	58.083122	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_504220	bacitracin	36.531742	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. SXM-1
+2	k141_507019	bacitracin	27.133125	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. C27(2019)
+2	k141_509919	polymyxin	26.717508	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. NC02
+2	k141_51065	bacitracin	39.56912	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Comamonas	Comamonas testosteroni
+2	k141_515742	beta-lactam	45.077396	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_52006	macrolide-lincosamide-streptogramin	19.05416	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardiaceae	Rhodococcus	Rhodococcus qingshengii
+2	k141_520215	multidrug@RND	17.968962	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. SXM-1
+2	k141_522494	beta-lactam	19.069466	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. CCOS 191
+2	k141_523630	bacitracin	41.560562	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	unclassified	unclassified
+2	k141_525164	macrolide-lincosamide-streptogramin	48.854626	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Citromicrobium	Citromicrobium sp. JL477
+2	k141_527038	multidrug@RND	62.100407	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified
+2	k141_527399	bacitracin	49.60349	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Acidovorax	Acidovorax sp. JMULE5
+2	k141_527770	bacitracin	36.973858	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans	Limnohabitans sp. 63ED37-2
+2	k141_528131	tetracycline	23.390617	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_528217	bacitracin	80.03036	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. S09G 359
+2	k141_528301	multidrug@RND	52.01237	Pseudomonadota	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	unclassified	unclassified
+2	k141_528966	defensin	82.722916	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_529718	bacitracin	31.227356	Actinomycetota	Actinomycetes	Candidatus Nanopelagicales	Candidatus Nanopelagicaceae	Candidatus Planktophila	Candidatus Planktophila vernalis
+2	k141_53333	beta-lactam	39.642544	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_537123	beta-lactam	18.28378	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. SXM-1
+2	k141_540872	bacitracin	33.00865	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	unclassified	unclassified
+2	k141_54398	multidrug@RND	42.09195	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_547849	beta-lactam	36.221394	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_549722	multidrug@RND	112.6714	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter sp. CS-2
+2	k141_550505	bacitracin	50.7999	Pseudomonadota	Betaproteobacteria	Nitrosomonadales	Methylophilaceae	Candidatus Methylopumilus	Candidatus Methylopumilus universalis
+2	k141_554505	multidrug@RND	29.041548	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Diaphorobacter	Diaphorobacter sp. HDW4A
+2	k141_555220	beta-lactam	57.208374	Bacteroidota	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Pedobacter	Pedobacter sp. KBS0701
+2	k141_563977	macrolide-lincosamide-streptogramin	56.19284	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_568014	bacitracin	46.381405	Pseudomonadota	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_58103	bacitracin	32.387005	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_66141	bacitracin	39.323353	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+2	k141_66605	macrolide-lincosamide-streptogramin	65.094696	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Polynucleobacter	Polynucleobacter duraquae
+2	k141_71651	quinolone	11.76291	Actinomycetota	Actinomycetes	unclassified	unclassified	unclassified	unclassified
+2	k141_77643	defensin	44.848114	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	Mycolicibacterium	Mycolicibacterium aurum
+2	k141_80198	bacitracin	171.94269	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. C27(2019)
+2	k141_91795	macrolide-lincosamide-streptogramin	43.06844	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified
+2	k141_95110	multidrug@MFS	33.580593	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingobiaceae	Sphingobium	Sphingobium xenophagum
+3	k141_100601	multidrug@RND	61.67675	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas extremorientalis
+3	k141_102740	bacitracin	90.3366	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Hydrogenophaga	Hydrogenophaga crassostreae
+3	k141_102932	multidrug@RND	53.496536	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified
+3	k141_103246	multidrug@RND	156.40474	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Rhodoferax	Rhodoferax saidenbachensis
+3	k141_105499	polymyxin	58.164886	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. SW-3
+3	k141_107097	beta-lactam	344.9672	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Nitrobacteraceae	Bradyrhizobium	Bradyrhizobium sp. ORS 278
+3	k141_107408	defensin	83.036705	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Hydrogenophaga	Hydrogenophaga sp. PBL-H3
+3	k141_109267	macrolide-lincosamide-streptogramin	92.76754	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Polynucleobacter	Polynucleobacter necessarius
+3	k141_109269	macrolide-lincosamide-streptogramin	138.07265	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Polynucleobacter	Polynucleobacter asymbioticus
+3	k141_10934	bacitracin	95.92823	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Polynucleobacter	Polynucleobacter paneuropaeus
+3	k141_111723	macrolide-lincosamide-streptogramin	48.499313	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Acidovorax	Acidovorax sp. RAC01
+3	k141_111826	multidrug@RND	89.75643	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. MPC6
+3	k141_112799	multidrug@RND	102.40481	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas silesiensis
+3	k141_115002	multidrug@RND	80.713135	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas mandelii
+3	k141_115915	beta-lactam	49.709045	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+3	k141_117632	multidrug@ABC	72.34879	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas frederiksbergensis
+3	k141_118559	defensin	44.67736	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. NC02
+3	k141_118652	multidrug@RND	72.11086	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter sp. CS-2
+3	k141_119272	bacitracin	104.7844	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Rhodoferax	Rhodoferax antarcticus
+3	k141_122900	multidrug@RND	71.97551	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas frederiksbergensis
+3	k141_123868	multidrug@SMR	88.508095	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Hydrogenophaga	Hydrogenophaga pseudoflava
+3	k141_124772	multidrug@RND	49.82205	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified
+3	k141_126168	macrolide-lincosamide-streptogramin	162.9314	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Polynucleobacter	Polynucleobacter necessarius
+3	k141_126614	bacitracin	63.39822	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+3	k141_127365	multidrug@RND	105.39273	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fluorescens
+3	k141_128898	fosfomycin	110.641136	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas mandelii
+3	k141_129105	multidrug@RND	111.5721	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas silesiensis
+3	k141_129429	defensin	96.95345	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. S34
+3	k141_135692	macrolide-lincosamide-streptogramin	62.7529	Actinomycetota	Actinomycetes	Micrococcales	Microbacteriaceae	Rhodoluna	Candidatus Rhodoluna planktonica
+3	k141_136201	beta-lactam	104.26982	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Polaromonas	Polaromonas vacuolata
+3	k141_136275	beta-lactam	35.81976	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas frederiksbergensis
+3	k141_136845	fosfomycin	55.796127	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+3	k141_137293	beta-lactam	148.1196	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Rhodoferax	Rhodoferax koreensis
+3	k141_137931	multidrug@RND	70.40066	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fluorescens
+3	k141_139264	multidrug@RND	64.83152	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas silesiensis
+3	k141_139288	multidrug@ABC	133.45181	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fluorescens
+3	k141_140035	multidrug@RND	89.28006	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter wanghuae
+3	k141_142694	chloramphenicol	42.360752	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter sp. TTH0-4
+3	k141_146548	multidrug@RND	175.91481	Pseudomonadota	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Pseudoduganella	Pseudoduganella plicata
+3	k141_147372	bacitracin	64.98528	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium johnsoniae
+3	k141_1477	polymyxin	113.305756	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. SW-3
+3	k141_148126	polymyxin	56.64518	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas silesiensis
+3	k141_150006	bacitracin	55.922703	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+3	k141_150584	beta-lactam	82.709816	Pseudomonadota	Betaproteobacteria	Nitrosomonadales	Methylophilaceae	Methylotenera	Methylotenera versatilis
+3	k141_151648	fosfomycin	83.91694	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. B14-6
+3	k141_153050	rifamycin	43.266495	Actinomycetota	Actinomycetes	unclassified	unclassified	unclassified	unclassified
+3	k141_154051	bacitracin	54.338467	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Phyllobacteriaceae	Phyllobacterium	Phyllobacterium zundukense
+3	k141_154182	macrolide-lincosamide-streptogramin	154.57608	Pseudomonadota	Betaproteobacteria	Burkholderiales	Sphaerotilaceae	Methylibium	Methylibium petroleiphilum
+3	k141_154373	multidrug@RND	88.01534	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas migulae
+3	k141_154709	bacitracin	35.24388	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Acidovorax	unclassified
+3	k141_154761	beta-lactam	81.0149	Bacteroidota	unclassified	unclassified	unclassified	unclassified	unclassified
+3	k141_155350	multidrug@RND	24.854532	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. R84
+3	k141_155526	bacitracin	29.866085000000002	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified
+3	k141_158742	multidrug@RND	50.46431	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter wanghuae
+3	k141_158944	macrolide-lincosamide-streptogramin	31.050543	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Polynucleobacter	Polynucleobacter asymbioticus
+3	k141_161639	beta-lactam	41.9956	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Nitrobacteraceae	Bradyrhizobium	Bradyrhizobium diazoefficiens
+3	k141_162259	beta-lactam	112.79321	Pseudomonadota	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	Massilia sp. NR 4-1
+3	k141_163313	bacitracin	51.378963	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Paracoccaceae	Tabrizicola	Tabrizicola piscis
+3	k141_163421	defensin	112.471405	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified
+3	k141_164789	multidrug@RND	119.539444	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. MPC6
+3	k141_167977	defensin	70.78035	Actinomycetota	Actinomycetes	Kitasatosporales	Streptomycetaceae	Streptomyces	Streptomyces sp. WAC 01529
+3	k141_171193	multidrug@RND	101.04896	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas frederiksbergensis
+3	k141_171966	bacitracin	92.98118	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium nackdongense
+3	k141_173143	multidrug@RND	89.17846	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas umsongensis
+3	k141_173289	bacitracin	105.39273	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans	Limnohabitans sp. 63ED37-2
+3	k141_174620	multidrug@RND	97.86476	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas silesiensis
+3	k141_175148	bacitracin	111.35842	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans	Limnohabitans sp. 63ED37-2
+3	k141_175189	multidrug@RND	84.61465	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas silesiensis
+3	k141_175768	bacitracin	71.87441	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	unclassified	unclassified	unclassified
+3	k141_177006	defensin	335.07062	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. B14-6
+3	k141_177040	multidrug@ABC	46.109333	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas silesiensis
+3	k141_178598	bacitracin	46.313423	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Polynucleobacter	Polynucleobacter necessarius
+3	k141_1792	polymyxin	97.23327	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas silesiensis
+3	k141_179311	beta-lactam	82.15802	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. ACM7
+3	k141_179952	beta-lactam	78.291725	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans	Limnohabitans sp. 103DPR2
+3	k141_180971	multidrug@RND	68.50525	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas silesiensis
+3	k141_18391	polymyxin	55.74762	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+3	k141_18437	defensin	104.72146	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Hydrogenophaga	Hydrogenophaga pseudoflava
+3	k141_18461	beta-lactam	230.13503	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Polaromonas	Polaromonas sp. JS666
+3	k141_184640	multidrug@RND	107.63512	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. M30-35
+3	k141_18467	beta-lactam	258.73245	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Hydrogenophaga	Hydrogenophaga sp. RAC07
+3	k141_185914	bacitracin	79.37644	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Arcobacteraceae	Arcobacter	Arcobacter suis
+3	k141_188151	bacitracin	70.26182	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Cupriavidus	Cupriavidus neocaledonicus
+3	k141_188182	defensin	42.950024	Actinomycetota	Actinomycetes	Candidatus Nanopelagicales	Candidatus Nanopelagicaceae	Candidatus Planktophila	Candidatus Planktophila versatilis
+3	k141_189378	multidrug@RND	54.804253	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas frederiksbergensis
+3	k141_189462	macrolide-lincosamide-streptogramin	59.40838	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter schindleri
+3	k141_189560	multidrug@RND	79.16167	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. PDNC002
+3	k141_189562	multidrug@RND	65.94095	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas vancouverensis
+3	k141_189667	multidrug@RND	249.89355	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Hydrogenophaga	Hydrogenophaga pseudoflava
+3	k141_189760	defensin	33.72569	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas frederiksbergensis
+3	k141_190939	multidrug@RND	127.985886	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas frederiksbergensis
+3	k141_190975	beta-lactam	125.26683	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans	Limnohabitans sp. 103DPR2
+3	k141_191413	rifamycin	70.26182	Actinomycetota	Actinomycetes	Propionibacteriales	Propionibacteriaceae	unclassified	unclassified
+3	k141_191813	macrolide-lincosamide-streptogramin	184.39249	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas silesiensis
+3	k141_193647	macrolide-lincosamide-streptogramin	60.64855	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. R84
+3	k141_193922	polymyxin	67.19862	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fluorescens
+3	k141_193968	multidrug@RND	112.611465	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas frederiksbergensis
+3	k141_195025	beta-lactam	184.43733	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Hydrogenophaga	Hydrogenophaga sp. PBL-H3
+3	k141_196243	fosfomycin	62.993343	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas frederiksbergensis
+3	k141_198866	bacitracin	50.164078	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium sp. Sr18
+3	k141_19914	multidrug@RND	69.624275	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas poae
+3	k141_199256	beta-lactam	43.64936	Acidobacteriota	Vicinamibacteria	Vicinamibacterales	Vicinamibacteraceae	Luteitalea	Luteitalea pratensis
+3	k141_200562	bacitracin	33.11434	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas mandelii
+3	k141_200788	multidrug@RND	55.437786	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. BIGb0427
+3	k141_20107	macrolide-lincosamide-streptogramin	44.50458	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Psychrobacter	Psychrobacter arenosus
+3	k141_201511	multidrug@RND	36.294216	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas frederiksbergensis
+3	k141_201875	multidrug@RND	147.25438	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas silesiensis
+3	k141_203814	multidrug@ABC	748.8778	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas frederiksbergensis
+3	k141_204988	multidrug@RND	266.3121	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Acidovorax	Acidovorax carolinensis
+3	k141_208161	beta-lactam	45.06927	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+3	k141_208954	bacitracin	50.38578	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	unclassified
+3	k141_210877	bacitracin	168.0872	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Polaromonas	unclassified
+3	k141_210920	polymyxin	73.39854	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fluorescens
+3	k141_211393	multidrug@RND	58.302334	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Aquipseudomonas	Aquipseudomonas campi
+3	k141_215006	macrolide-lincosamide-streptogramin	148.1196	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. SW-3
+3	k141_215608	bacitracin	78.068726	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	unclassified
+3	k141_216253	macrolide-lincosamide-streptogramin	84.499886	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Cupriavidus	Cupriavidus basilensis
+3	k141_216553	macrolide-lincosamide-streptogramin	40.595722	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas yamanorum
+3	k141_216870	macrolide-lincosamide-streptogramin	56.06571	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. MPC6
+3	k141_217190	multidrug@RND	59.311916	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified
+3	k141_218440	fosfomycin	192.0224	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Rhodoferax	Rhodoferax antarcticus
+3	k141_218745	multidrug@MFS	75.59201	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+3	k141_221314	multidrug@ABC	99.46318	Pseudomonadota	Betaproteobacteria	Burkholderiales	Sphaerotilaceae	Roseateles	Roseateles depolymerans
+3	k141_221694	multidrug@RND	104.98895	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. MPC6
+3	k141_221740	polymyxin	75.0743	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas silesiensis
+3	k141_222293	multidrug@RND	67.97421	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas mandelii
+3	k141_22242	bacitracin	77.0805	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Variovorax	Variovorax sp. PBL-E5
+3	k141_223393	vancomycin	35.703083	Actinomycetota	Actinomycetes	Pseudonocardiales	Pseudonocardiaceae	Saccharomonospora	Saccharomonospora azurea
+3	k141_223842	macrolide-lincosamide-streptogramin	61.23379	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Polynucleobacter	Polynucleobacter asymbioticus
+3	k141_223854	bacitracin	52.823338	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Polynucleobacter	Polynucleobacter difficilis
+3	k141_224491	bacitracin	82.24959	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium sp. Sr18
+3	k141_224505	multidrug@RND	79.098885	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter wanghuae
+3	k141_22484	macrolide-lincosamide-streptogramin	91.74818	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas silesiensis
+3	k141_22856	bacitracin	249.74084	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Rhodoferax	Rhodoferax sp. PAMC 29310
+3	k141_23246	defensin	63.725857	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas frederiksbergensis
+3	k141_24305	beta-lactam	188.4386	Pseudomonadota	Betaproteobacteria	Burkholderiales	unclassified	unclassified	unclassified
+3	k141_24841	bacitracin	108.11721	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Comamonas	Comamonas testosteroni
+3	k141_24847	multidrug@RND	129.45885	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas frederiksbergensis
+3	k141_25214	multidrug@MFS	49.973465	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas frederiksbergensis
+3	k141_26413	bacitracin	58.01752	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Psychrobacter	unclassified
+3	k141_26452	macrolide-lincosamide-streptogramin	81.0149	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas mandelii
+3	k141_26979	bacitracin	137.32268	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Hydrogenophaga	Hydrogenophaga sp. NH-16
+3	k141_27368	multidrug@RND	40.98609	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter sp. WCHAc010034
+3	k141_28971	multidrug@RND	119.13963	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. R84
+3	k141_29936	multidrug@RND	139.52193	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas silesiensis
+3	k141_300	defensin	140.39952	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Hydrogenophaga	Hydrogenophaga sp. NH-16
+3	k141_32410	multidrug@RND	45.480705	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter sp. CS-2
+3	k141_34612	beta-lactam	98.48541	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Rhodoferax	Rhodoferax antarcticus
+3	k141_34858	polymyxin	75.83607	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas mandelii
+3	k141_37193	macrolide-lincosamide-streptogramin	108.73857	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Rhodoferax	Rhodoferax sp. AJA081-3
+3	k141_37273	fosfomycin	49.225357	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. ACM7
+3	k141_4098	bacitracin	121.33776	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas frederiksbergensis
+3	k141_43697	bacitracin	94.69416	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Acidovorax	Acidovorax carolinensis
+3	k141_44841	macrolide-lincosamide-streptogramin	44.19696	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas silesiensis
+3	k141_45874	multidrug@RND	58.189796	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas silesiensis
+3	k141_46065	multidrug@RND	131.47484	Pseudomonadota	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	Massilia sp. YMA4
+3	k141_46890	defensin	64.533936	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas frederiksbergensis
+3	k141_47097	multidrug@RND	91.34038	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas prosekii
+3	k141_47314	multidrug@RND	329.9026	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas frederiksbergensis
+3	k141_47473	multidrug@RND	120.10669	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas frederiksbergensis
+3	k141_47538	bacitracin	93.497986	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans	Limnohabitans sp. 63ED37-2
+3	k141_48139	polymyxin	93.97839	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. SW-3
+3	k141_48359	bacitracin	70.46259	Bacteroidota	Flavobacteriia	Flavobacteriales	Weeksellaceae	Chryseobacterium	Chryseobacterium sp. NEB161
+3	k141_48954	multidrug@RND	100.69015	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fluorescens
+3	k141_49578	polymyxin	58.189796	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas arsenicoxydans
+3	k141_50016	beta-lactam	139.52193	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Rhodoferax	Rhodoferax sp. PAMC 29310
+3	k141_50250	macrolide-lincosamide-streptogramin	89.84302	Pseudomonadota	Betaproteobacteria	unclassified	unclassified	unclassified	unclassified
+3	k141_50297	defensin	104.4159	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas frederiksbergensis
+3	k141_50320	polymyxin	177.65623	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Nitrobacteraceae	Bradyrhizobium	Bradyrhizobium diazoefficiens
+3	k141_50581	multidrug@RND	127.82328	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified
+3	k141_51144	defensin	64.36737	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas silesiensis
+3	k141_51632	macrolide-lincosamide-streptogramin	90.517525	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas lurida
+3	k141_5164	bacitracin	30.379284	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium psychrophilum
+3	k141_5222	multidrug@RND	60.893585	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas extremaustralis
+3	k141_53524	macrolide-lincosamide-streptogramin	56.73314	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	Acinetobacter sp. TTH0-4
+3	k141_5529	multidrug@RND	46.70815	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas marincola
+3	k141_56623	bacitracin	54.338467	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+3	k141_56938	rifamycin	72.11086	Actinomycetota	Actinomycetes	Micromonosporales	Micromonosporaceae	Micromonospora	Micromonospora viridifaciens
+3	k141_607	multidrug@RND	76.11698	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas mandelii
+3	k141_61660	defensin	40.53568	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+3	k141_64995	macrolide-lincosamide-streptogramin	228.35106	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	unclassified	unclassified
+3	k141_65337	multidrug@RND	105.799675	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified
+3	k141_66422	multidrug@RND	213.523	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas silesiensis
+3	k141_67298	beta-lactam	59.426285	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fluorescens
+3	k141_70316	multidrug@RND	126.63711	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas frederiksbergensis
+3	k141_7096	multidrug@MFS	48.32825	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas frederiksbergensis
+3	k141_72526	polymyxin	49.671513	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas chlororaphis
+3	k141_72648	bacitracin	56.340782	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+3	k141_7278	bacitracin	67.382225	Bacteroidota	Flavobacteriia	Flavobacteriales	Weeksellaceae	Empedobacter	Empedobacter falsenii
+3	k141_73275	polymyxin	64.602234	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fluorescens
+3	k141_74751	multidrug@RND	94.2579	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified
+3	k141_75087	beta-lactam	79.8528	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Rhodoferax	Rhodoferax sediminis
+3	k141_78630	macrolide-lincosamide-streptogramin	78.63744	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Rhodoferax	Rhodoferax antarcticus
+3	k141_79118	multidrug@RND	108.523285	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fluorescens
+3	k141_79174	polymyxin	66.16205	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. B14-6
+3	k141_79209	bacitracin	59.397614	Pseudomonadota	Betaproteobacteria	Burkholderiales	unclassified	Thiomonas	Thiomonas sp. X19
+3	k141_7949	multidrug@RND	88.63218	Pseudomonadota	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Janthinobacterium	unclassified
+3	k141_79775	beta-lactam	56.948177	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified
+3	k141_7980	multidrug@RND	269.02173	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. SW-3
+3	k141_8094	multidrug@ABC	95.007324	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas frederiksbergensis
+3	k141_81650	bacitracin	53.134315	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium sp. Sr18
+3	k141_82080	macrolide-lincosamide-streptogramin	64.02361	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Rhodoferax	Rhodoferax antarcticus
+3	k141_82756	multidrug@RND	168.91719	Pseudomonadota	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	unclassified
+3	k141_84557	multidrug@MFS	82.678825	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. B14-6
+3	k141_85785	bacitracin	90.813934	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga	Capnocytophaga canimorsus
+3	k141_86954	bacitracin	97.10603	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+3	k141_8714	multidrug@RND	120.32865	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas frederiksbergensis
+3	k141_88015	macrolide-lincosamide-streptogramin	98.845314	Pseudomonadota	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	Massilia violaceinigra
+3	k141_89	beta-lactam	123.61854	Pseudomonadota	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	Massilia litorea
+3	k141_89336	defensin	43.96059	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas silesiensis
+3	k141_90244	defensin	108.24761	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Hydrogenophaga	Hydrogenophaga sp. NH-16
+3	k141_9034	multidrug@RND	190.03703	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas silesiensis
+3	k141_90804	macrolide-lincosamide-streptogramin	100.70407	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified
+3	k141_91957	beta-lactam	128.90225	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Hydrogenophaga	Hydrogenophaga sp. RAC07
+3	k141_93475	beta-lactam	25.529936	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified
+3	k141_94516	multidrug@RND	74.20299	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas gelidaquae
+3	k141_94773	bacitracin	52.02934	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+3	k141_94879	beta-lactam	53.729637	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Limnohabitans	Limnohabitans sp. 63ED37-2
+3	k141_94881	trimethoprim	46.444256	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	Acinetobacter	unclassified
+3	k141_95064	multidrug@RND	80.3974	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. R84
+3	k141_96414	multidrug@RND	93.016304	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas chlororaphis
+3	k141_9680	polymyxin	86.36765	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. SW-3
+3	k141_9728	multidrug@RND	67.6595	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas frederiksbergensis
+3	k141_98355	multidrug@RND	64.89974	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas putida
+3	k141_98982	multidrug@RND	48.073864	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas lurida
+3	k141_99255	defensin	30.962837	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	Hydrogenophaga	Hydrogenophaga sp. PBL-H3
